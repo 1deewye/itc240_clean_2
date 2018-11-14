@@ -39,7 +39,10 @@
               <a class="nav-link" href="index.html">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
+              <a class="nav-link" href="db-test.php">DB Test</a>
+            </li>
+              <li class="nav-item">
+              <a class="nav-link" href="customer_list.php">Customer</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="daily.php">Daily</a>
